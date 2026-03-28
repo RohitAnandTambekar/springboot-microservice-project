@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="84b6f93f-c6ff-42e4-b93c-c35be0480546" name="Changes" comment="" />
+    <list default="true" id="84b6f93f-c6ff-42e4-b93c-c35be0480546" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/catalog-service/src/main/java/org/rohit/catalog_service/CatalogServiceApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/catalog-service/src/main/java/org/rohit/catalog_service/CatalogServiceApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/catalog-service/src/test/java/org/rohit/catalog_service/CatalogServiceApplicationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/catalog-service/src/test/java/org/rohit/catalog_service/CatalogServiceApplicationTests.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
